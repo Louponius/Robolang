@@ -4,8 +4,8 @@ an esoteric programming language for robots!
 Made by Oklomsy!
 
 
-Robolang has three commands
-Beep Boop Bap 
+Robolang has four commands
+Beep Boop Bap and Boap
 
 Beep just prints whatever you give it to the console for example.
 Beep("A") will print A to the console.
